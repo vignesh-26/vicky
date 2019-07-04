@@ -1,0 +1,2 @@
+gotnm=input()
+print(gotnm+".")
