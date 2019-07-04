@@ -1,2 +1,2 @@
-r=input()
-print(r[::-1])
+re=input()
+print(rev[::-1])
