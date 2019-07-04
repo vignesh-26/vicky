@@ -1,2 +1,2 @@
-gotnm=input()
-print(gotnm+".")
+gotnn=input()
+print(gotnn+".")
