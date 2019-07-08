@@ -1,0 +1,9 @@
+n=int(input())
+k=list(map(int,input().split()))
+c=n//2
+a=k[:c]
+b=k[c::]
+if(sum(a)//len(a)==sum(b)//len(b)):
+  print("yes")
+else:
+  print("no")
