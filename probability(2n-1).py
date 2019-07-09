@@ -1,2 +1,2 @@
-n=int(input())
-print((n*(n-1))//2)
+v=int(input())
+print((v*(v-1))//2)
