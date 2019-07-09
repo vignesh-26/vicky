@@ -1,2 +1,2 @@
-v=int(input())
-print(v)
+vs=int(input())
+print(vs)
